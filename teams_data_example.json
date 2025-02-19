@@ -1,0 +1,18 @@
+[
+    {
+        "id": "",
+        "name": "IT",
+        "boss": "",
+        "dn": "OU=",
+        "header": "",
+        "category": "category1/category2"
+    },
+    {
+        "id": "",
+        "name": "[TeamName]",
+        "boss": "[username]",
+        "dn": "OU=",
+        "header": "[message header]",
+        "category": "category1/category2"
+    }
+]
